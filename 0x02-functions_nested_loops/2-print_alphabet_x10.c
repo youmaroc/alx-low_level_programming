@@ -3,7 +3,6 @@
 	 * print_alphabet_x10 - prints times10  the alphabet, in lowercase,
 	 * 
 	 * followed by a new line
-	 *
 	 */
 	void print_alphabet_x10(void)
 	{
