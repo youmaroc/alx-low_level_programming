@@ -2,7 +2,7 @@
 
 /**
  * binary_to_unit , convert  binary number >> unsigned int
- * @b: string co the binary number
+ * @b: string count the binary number
  *
  * Return: the converted number
  */
