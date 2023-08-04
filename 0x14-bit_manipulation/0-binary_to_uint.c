@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * binary_to_unit , convert  binary number >> unsigned int
- * @b: string count the binary number
+ * binary_to_uint - converts a binary number to unsigned int
+ * @b: string containing the binary number
  *
  * Return: the converted number
  */
